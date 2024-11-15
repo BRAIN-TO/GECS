@@ -4,7 +4,7 @@ The overall generative embedding process comprises of:
 
 <strong>Step 1.</strong> Computation of connectivity features for task-fMRI data of several subjects in an iterative manner using the DCM framework(s).
 
-P-DCM was initially developed on [Matlab](https://github.com/BRAIN-TO/PDCM). For S-DCM [2], one may refer to the standard SPM package which involves the code for running S-DCM on task fMRI data.
+[P-DCM](https://github.com/BRAIN-TO/PDCM) was initially developed on Matlab. For S-DCM [2], one may refer to the standard [SPM package](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/) which involves the code for running S-DCM on task fMRI data.
 
 Alternatively, one may also use the python implementation of both P-DCM and S-DCM which are available in the src/utilities folder in this repository.
 
